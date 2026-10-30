@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi there 👋, I'm Nandani Kushwaha
 
-<!--
-**nandanikushwaha2005/nandanikushwaha2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Engineering Student
 
-Here are some ideas to get you started:
+💻 Aspiring Java Full Stack Developer
+            
+- 🌱 Currently learning Java, HTML, CSS and JavaScript
+- ☕ Exploring Spring Boot and MySQL
+- 🚀 Interested in building real-world projects
+- 🎯 Goal: Become a Java Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies I'm Learning
+
+- Java
+- HTML5
+- CSS3
+- JavaScript
+- MySQL
+- Spring Boot
+
+### 📌 My Projects
+
+- My First Project
+
+### 📫 Connect with me
+
+- GitHub: https://github.com/nandanikushwaha2005
+
+Thanks for visiting my profile! 😊
